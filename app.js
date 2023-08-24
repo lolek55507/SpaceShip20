@@ -79,7 +79,7 @@ let characterBulletWidth = 20;
 let imCoorX = canvasWidth - birdWidth + 150;
 let boomAnimationDelay = 0;
 let gameState = "resumed";
-let phaseNumber = 2;
+let phaseNumber = 1;
 const boomSound = document.getElementById('boomSound');
  
 
